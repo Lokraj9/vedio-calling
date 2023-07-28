@@ -21,7 +21,7 @@ const Room = () => {
       sharedLinks: [
         {
           name: "Copy link",
-          url: `https://zegocloud-vedio.netlify.app/room/${roomID}`,
+          url: `https://vedio-call.netlify.app/room/${roomID}`,
         },
       ],
       scenario: {
